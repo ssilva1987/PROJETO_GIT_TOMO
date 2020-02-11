@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
+#Agora esta GUI está no Github
 
-# Form implementation generated from reading ui file 'NOVO_SERVICO.ui'
-#
-# Created by: PyQt5 UI code generator 5.6
-#
-# WARNING! All changes made in this file will be lost!
-
-#caixa de texto Cliente: lineEdit
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sqlite3
 
